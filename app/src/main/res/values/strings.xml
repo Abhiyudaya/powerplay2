@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PowerPlay</string>
+    
+    <!-- Product List -->
+    <string name="product_image">Product Image</string>
+    <string name="error_icon">Error Icon</string>
+    <string name="no_data_icon">No Data Icon</string>
+    <string name="error_message_default">Something went wrong</string>
+    <string name="no_data_message">No products available</string>
+    <string name="retry">Retry</string>
+    
+    <!-- Product Detail -->
+    <string name="description">Description</string>
+    
+    <!-- Error Messages -->
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_server">Server error occurred</string>
+    <string name="error_timeout">Request timeout</string>
+    <string name="error_unknown">Unknown error occurred</string>
+</resources>
